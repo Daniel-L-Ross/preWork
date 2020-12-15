@@ -1,0 +1,31 @@
+h1 {
+color: #ffaa00;
+}
+
+.intro {
+    float: left;
+    width: 60%;
+    margin: 0 auto;
+    background-color: grey;
+}
+
+.article {
+    float: left;
+    width: 70%;
+}
+
+.aside {
+    float: right;
+    width: 30%;
+}
+
+footer {
+    clear: both;
+}
+
+/* CSS
+  - Change the text alignment of the h1
+  - Change the color of the h2s
+  - Change the font-size of the paragraphs
+  - If you added a link, change the color of it
+ --> */
